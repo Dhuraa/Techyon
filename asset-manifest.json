@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techyon./static/css/main.b3214a79.css",
+    "main.js": "/techyon./static/js/main.fc66e7a1.js",
+    "index.html": "/techyon./index.html",
+    "main.b3214a79.css.map": "/techyon./static/css/main.b3214a79.css.map",
+    "main.fc66e7a1.js.map": "/techyon./static/js/main.fc66e7a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3214a79.css",
+    "static/js/main.fc66e7a1.js"
+  ]
+}
